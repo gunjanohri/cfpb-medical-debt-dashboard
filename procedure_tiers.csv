@@ -1,0 +1,17 @@
+procedure,code,setting,avg_medicare_payment,avg_patient_cost,data_year,source,tier
+MRI brain without contrast,70551,HOPD,351,87,2026,CMS Procedure Price Lookup,Tier 1: Routine (<$787)
+CT abdomen/pelvis with contrast,74177,HOPD,525,131,2026,CMS Procedure Price Lookup,Tier 1: Routine (<$787)
+Lumbar epidural steroid injection,62323,HOPD,647,161,2026,CMS Procedure Price Lookup,Tier 1: Routine (<$787)
+Skin lesion excision (benign 1.1-2.0cm),11402,HOPD,660,164,2026,CMS Procedure Price Lookup,Tier 1: Routine (<$787)
+Upper endoscopy diagnostic (EGD),43235,HOPD,829,207,2026,CMS Procedure Price Lookup,"Tier 2: Intermediate (<$1,666)"
+Colonoscopy screening (colorectal cancer),G0121,HOPD,1082,0,2026,CMS Procedure Price Lookup,"Tier 2: Intermediate (<$1,666)"
+Colonoscopy with polyp removal (snare),45385,HOPD,1156,288,2026,CMS Procedure Price Lookup,"Tier 2: Intermediate (<$1,666)"
+Breast biopsy (needle core),19100,HOPD,1398,349,2026,CMS Procedure Price Lookup,"Tier 2: Intermediate (<$1,666)"
+Carpal tunnel release,64721,HOPD,1934,483,2026,CMS Procedure Price Lookup,"Tier 3: Major (<$3,139)"
+Cataract removal with lens implant (1-stage),66984,HOPD,2256,563,2026,CMS Procedure Price Lookup,"Tier 3: Major (<$3,139)"
+Tonsillectomy (age 12+),42826,HOPD,2894,723,2026,CMS Procedure Price Lookup,"Tier 3: Major (<$3,139)"
+Knee arthroscopy with meniscectomy,29881,HOPD,3086,771,2026,CMS Procedure Price Lookup,"Tier 3: Major (<$3,139)"
+Kidney stone lithotripsy,50590,HOPD,3297,824,2026,CMS Procedure Price Lookup,"Tier 4: Catastrophic (>=$3,139)"
+Inguinal hernia repair,49505,HOPD,3332,832,2026,CMS Procedure Price Lookup,"Tier 4: Catastrophic (>=$3,139)"
+Laparoscopic gallbladder removal,47562,HOPD,5446,1361,2026,CMS Procedure Price Lookup,"Tier 4: Catastrophic (>=$3,139)"
+Rotator cuff repair (arthroscopic),29827,HOPD,6711,1677,2026,CMS Procedure Price Lookup,"Tier 4: Catastrophic (>=$3,139)"

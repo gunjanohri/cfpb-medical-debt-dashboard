@@ -1,0 +1,52 @@
+state,complaints,pop,per_100k,state_name,per_capita_spending,year,segment
+GA,6113,11180878.0,54.67370272710247,Georgia,8758,2020,"Elevated: high complaint burden, lower care costs"
+FL,10202,23372215.0,43.65012045285396,Florida,9865,2020,"Elevated: high complaint burden, lower care costs"
+NV,1337,3267467.0,40.91854638470718,Nevada,8348,2020,"Elevated: high complaint burden, lower care costs"
+DE,416,1051917.0,39.5468463766628,Delaware,12899,2020,Highest risk: high complaint burden + high care costs
+SC,1852,5478831.0,33.80283129740633,South Carolina,8766,2020,"Elevated: high complaint burden, lower care costs"
+AL,1629,5157699.0,31.583851636165665,Alabama,9280,2020,"Elevated: high complaint burden, lower care costs"
+LA,1408,4597740.0,30.62374122938661,Louisiana,10515,2020,Highest risk: high complaint burden + high care costs
+TX,9422,31290831.0,30.111057133637647,Texas,8406,2020,"Elevated: high complaint burden, lower care costs"
+MS,879,2943045.0,29.867025478713373,Mississippi,9394,2020,"Elevated: high complaint burden, lower care costs"
+NC,3268,11046024.0,29.585305988833632,North Carolina,8917,2020,"Elevated: high complaint burden, lower care costs"
+WY,169,587618.0,28.760180933872007,Wyoming,10989,2020,Highest risk: high complaint burden + high care costs
+TN,2074,7227750.0,28.69496039569714,Tennessee,9336,2020,"Elevated: high complaint burden, lower care costs"
+DC,188,702250.0,26.771092915628337,District of Columbia,14381,2020,Highest risk: high complaint burden + high care costs
+VA,2299,8811195.0,26.091807070437092,Virginia,9195,2020,"Elevated: high complaint burden, lower care costs"
+NJ,2288,9500851.0,24.082053281332374,New Jersey,11868,2020,Highest risk: high complaint burden + high care costs
+MO,1473,6245466.0,23.58510958189509,Missouri,9921,2020,"Elevated: high complaint burden, lower care costs"
+AZ,1744,7582384.0,23.0006815798303,Arizona,8756,2020,"Elevated: high complaint burden, lower care costs"
+OK,913,4095393.0,22.293342787859437,Oklahoma,9444,2020,"Elevated: high complaint burden, lower care costs"
+MD,1367,6263220.0,21.82583399593181,Maryland,10839,2020,Highest risk: high complaint burden + high care costs
+UT,753,3503613.0,21.49209972676777,Utah,7522,2020,"Elevated: high complaint burden, lower care costs"
+IL,2596,12710158.0,20.42460841163422,Illinois,10190,2020,"Elevated: high complaint burden, lower care costs"
+AR,607,3088354.0,19.65448261436351,Arkansas,9338,2020,"Elevated: high complaint burden, lower care costs"
+ND,151,796568.0,18.956322624057204,North Dakota,11301,2020,Highest risk: high complaint burden + high care costs
+MT,214,1137233.0,18.81760378040384,Montana,10212,2020,Highest risk: high complaint burden + high care costs
+KS,553,2970606.0,18.615730258405183,Kansas,9408,2020,"Elevated: high complaint burden, lower care costs"
+OH,2203,11883304.0,18.53861518648349,Ohio,10478,2020,Highest risk: high complaint burden + high care costs
+CO,1092,5957493.0,18.329857878137663,Colorado,8583,2020,Lower observed risk
+KY,799,4588372.0,17.41358372860788,Kentucky,10257,2020,"Watch: high care costs, lower complaint burden"
+IN,1176,6924275.0,16.98372753826213,Indiana,10517,2020,"Watch: high care costs, lower complaint burden"
+SD,155,924669.0,16.762755104799666,South Dakota,12495,2020,"Watch: high care costs, lower complaint burden"
+WI,988,5960975.0,16.57446978053087,Wisconsin,9982,2020,Lower observed risk
+PA,2166,13078751.0,16.56121444624185,Pennsylvania,11603,2020,"Watch: high care costs, lower complaint burden"
+MI,1529,10140459.0,15.078212929020276,Michigan,9897,2020,Lower observed risk
+NE,300,2005465.0,14.959124193142236,Nebraska,10514,2020,"Watch: high care costs, lower complaint burden"
+ID,293,2001619.0,14.638150417237249,Idaho,8148,2020,Lower observed risk
+CA,5644,39431263.0,14.313515648737908,California,10299,2020,"Watch: high care costs, lower complaint burden"
+NM,303,2130256.0,14.223642604456929,New Mexico,8902,2020,Lower observed risk
+WA,1109,7958180.0,13.935347026581454,Washington,9265,2020,Lower observed risk
+CT,501,3675069.0,13.63239710601352,Connecticut,12489,2020,"Watch: high care costs, lower complaint burden"
+IA,418,3241488.0,12.895312276337288,Iowa,9789,2020,Lower observed risk
+AK,94,740133.0,12.70042005963793,Alaska,13642,2020,"Watch: high care costs, lower complaint burden"
+WV,223,1769979.0,12.599019536389978,West Virginia,12769,2020,"Watch: high care costs, lower complaint burden"
+NH,175,1409032.0,12.419874069574004,New Hampshire,11793,2020,"Watch: high care costs, lower complaint burden"
+ME,172,1405012.0,12.241888325508963,Maine,12077,2020,"Watch: high care costs, lower complaint burden"
+OR,472,4272371.0,11.047729703249086,Oregon,10071,2020,Lower observed risk
+NY,2106,19867248.0,10.600360955880754,New York,14007,2020,"Watch: high care costs, lower complaint burden"
+RI,112,1112308.0,10.069153507841351,Rhode Island,11694,2020,"Watch: high care costs, lower complaint burden"
+MA,669,7136171.0,9.374775352216195,Massachusetts,13319,2020,"Watch: high care costs, lower complaint burden"
+MN,429,5793151.0,7.405296357716206,Minnesota,10846,2020,"Watch: high care costs, lower complaint burden"
+HI,100,1446146.0,6.914931134200834,Hawaii,10291,2020,"Watch: high care costs, lower complaint burden"
+VT,32,648493.0,4.934517411907299,Vermont,12756,2020,"Watch: high care costs, lower complaint burden"

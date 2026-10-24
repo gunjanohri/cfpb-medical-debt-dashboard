@@ -1,0 +1,126 @@
+{
+ "n_medical_debt_complaints": 77968,
+ "n_debt_collection_complaints": 1205791,
+ "n_total_complaints": 18191687,
+ "medical_share_of_debt_collection_pct": 6.47,
+ "date_range": [
+  "2017-04-24",
+  "2026-10-05"
+ ],
+ "trend_by_year": {
+  "2017": 5398,
+  "2018": 8108,
+  "2019": 7601,
+  "2020": 7929,
+  "2021": 10490,
+  "2022": 9077,
+  "2023": 7410,
+  "2024": 7265,
+  "2025": 8843,
+  "2026": 5847
+ },
+ "top_states_per_100k": {
+  "GA": {
+   "complaints": 6113,
+   "per_100k": 54.7
+  },
+  "FL": {
+   "complaints": 10202,
+   "per_100k": 43.7
+  },
+  "NV": {
+   "complaints": 1337,
+   "per_100k": 40.9
+  },
+  "DE": {
+   "complaints": 416,
+   "per_100k": 39.5
+  },
+  "SC": {
+   "complaints": 1852,
+   "per_100k": 33.8
+  },
+  "AL": {
+   "complaints": 1629,
+   "per_100k": 31.6
+  },
+  "LA": {
+   "complaints": 1408,
+   "per_100k": 30.6
+  },
+  "TX": {
+   "complaints": 9422,
+   "per_100k": 30.1
+  },
+  "MS": {
+   "complaints": 879,
+   "per_100k": 29.9
+  },
+  "NC": {
+   "complaints": 3268,
+   "per_100k": 29.6
+  }
+ },
+ "bottom_states_per_100k": {
+  "MA": {
+   "complaints": 669,
+   "per_100k": 9.4
+  },
+  "MN": {
+   "complaints": 429,
+   "per_100k": 7.4
+  },
+  "HI": {
+   "complaints": 100,
+   "per_100k": 6.9
+  },
+  "VT": {
+   "complaints": 32,
+   "per_100k": 4.9
+  },
+  "PR": {
+   "complaints": 49,
+   "per_100k": 1.5
+  }
+ },
+ "top_companies": {
+  "HCFS Healthcare Financial Services of TeamHealth": 2046,
+  "TRANSWORLD SYSTEMS INC": 1974,
+  "Commonwealth Financial Systems, Inc.": 1840,
+  "Capio Partners, LLC": 1713,
+  "Medical Data Systems, Inc.": 1698,
+  "Phoenix Financial Services LLC": 1674,
+  "W&A Intermediate Co., LLC": 1582,
+  "EQUIFAX, INC.": 1483,
+  "WAKEFIELD & ASSOCIATES, INC.": 1298,
+  "Experian Information Solutions Inc.": 1238
+ },
+ "top_issues": {
+  "Attempts to collect debt not owed": 36677,
+  "Written notification about debt": 21214,
+  "False statements or representation": 7365,
+  "Took or threatened to take negative or legal action": 5571,
+  "Communication tactics": 5104,
+  "Threatened to contact someone or share information improperly": 1308,
+  "Electronic communications": 729
+ },
+ "top_subissues": {
+  "Debt is not yours": 19872,
+  "Didn't receive enough information to verify debt": 13551,
+  "Debt was paid": 10758,
+  "Didn't receive notice of right to dispute": 6855,
+  "Attempted to collect wrong amount": 6684,
+  "Debt was result of identity theft": 5070,
+  "Threatened or suggested your credit would be damaged": 4210,
+  "Frequent or repeated calls": 2419,
+  "You told them to stop contacting you, but they keep trying": 1932,
+  "Debt was already discharged in bankruptcy and is no longer owed": 977
+ },
+ "company_response_mix": {
+  "Closed with explanation": 69231,
+  "Closed with non-monetary relief": 7446,
+  "Untimely response": 964,
+  "Closed with monetary relief": 196,
+  "In progress": 131
+ }
+}

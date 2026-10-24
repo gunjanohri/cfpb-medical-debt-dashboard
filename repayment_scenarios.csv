@@ -1,0 +1,13 @@
+tier,tier_median_cost,monthly_payment_capacity,months_to_repay,extended_burden,n_procedures_in_tier
+Tier 1: Routine (<$787),586.0,50,11.7,False,4
+Tier 1: Routine (<$787),586.0,100,5.9,False,4
+Tier 1: Routine (<$787),586.0,250,2.3,False,4
+"Tier 2: Intermediate (<$1,666)",1119.0,50,22.4,False,4
+"Tier 2: Intermediate (<$1,666)",1119.0,100,11.2,False,4
+"Tier 2: Intermediate (<$1,666)",1119.0,250,4.5,False,4
+"Tier 3: Major (<$3,139)",2575.0,50,51.5,True,4
+"Tier 3: Major (<$3,139)",2575.0,100,25.8,True,4
+"Tier 3: Major (<$3,139)",2575.0,250,10.3,False,4
+"Tier 4: Catastrophic (>=$3,139)",4389.0,50,87.8,True,4
+"Tier 4: Catastrophic (>=$3,139)",4389.0,100,43.9,True,4
+"Tier 4: Catastrophic (>=$3,139)",4389.0,250,17.6,False,4
